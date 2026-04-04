@@ -56,5 +56,3 @@ Actualmente, la empresa presenta problemas con el registro de pedidos, ya que la
 
 ## Enlaces del Proyecto
 * **Presentación del Proyecto:** [LINK AQUÍ]
-* **Script de Estructura:** [schema.database.sql](./schema.database.sql)
-* **Script de Objetos:** [Objtects.database.sql](./Objtects.database.sql)
