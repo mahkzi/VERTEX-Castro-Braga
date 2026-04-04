@@ -55,4 +55,4 @@ Actualmente, la empresa presenta problemas con el registro de pedidos, ya que la
 ---
 
 ## Enlaces del Proyecto
-* **Presentación del Proyecto:** [LINK AQUÍ]
+* **Presentación del Proyecto:** https://gamma.app/docs/VERTEX-Platform-em6au7068owfe1z
