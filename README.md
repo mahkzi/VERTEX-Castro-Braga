@@ -53,6 +53,14 @@ Actualmente, la empresa presenta problemas con el registro de pedidos, ya que la
 ![DER](./DER.png) 
 
 ---
+Para este proyecto, se implementó un tablero de control interactivo que permite transformar los datos transaccionales en decisiones estratégicas. 
+
+**Descripción del Informe:**
+Este informe analiza de manera integral las ventas mensuales (**KPI 1**), el inventario valorizado distribuido por sucursal (**KPI 2**), el rendimiento operativo de los vendedores (**KPI 3**) y la logística de devoluciones por producto (**KPI 4**) de VERTEX Store.
+
+* **Herramienta:** Microsoft Power BI.
+* **Origen de datos:** Conexión directa a la base de datos `schema_final` (MySQL).
+* **Propósito:** Proveer visibilidad en tiempo real sobre la rentabilidad y el estado del stock para eliminar la dependencia de registros manuales.
 
 ## Enlaces del Proyecto
 * **Presentación del Proyecto:** https://gamma.app/docs/VERTEX-Platform-em6au7068owfe1z
