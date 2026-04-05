@@ -1,3 +1,4 @@
+ 
 /*
 OBJETIVO:
 Definir consultas SQL orientadas a la generación de un tablero

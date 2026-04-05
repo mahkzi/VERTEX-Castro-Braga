@@ -8,7 +8,7 @@ INSERT INTO Categoria (nombre_categoria, descripcion_categoria) VALUES
 ('Audio', 'Auriculares y micrófonos');
 
 -- 2. PROVEEDORES
-INSERT INTO Proveedores (nombre_provider, contacto_nombre, email_proveedor, telefono_proveedor, direccion_proveedor) VALUES
+INSERT INTO Proveedores (nombre_proveedor, contacto_nombre, email_proveedor, telefono_proveedor, direccion_proveedor) VALUES
 ('Logitech Argentina', 'Juan Gomez', 'ventas@logitech.com.ar', '1144556677', 'Av. Santa Fe 1234, CABA'),
 ('ASUS Latam', 'Maria Lopez', 'soporte@asus.com', '1122334455', 'Florida 500, CABA'),
 ('MSI Official', 'Ricardo Torres', 'distribucion@msi.com', '1199887766', 'Av. Cabildo 2000, CABA');
